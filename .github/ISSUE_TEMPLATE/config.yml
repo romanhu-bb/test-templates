@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Slack Variants channel
-    url: #s-variants
+    url: https://github.com/romanhu-bb/test-templates/edit/main/
     about: Please ask and answer questions here.
+#   - name: Slack Variants channel
+#     url: #s-variants
+#     about: Please ask and answer questions here.
