@@ -2,37 +2,38 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'triage', 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the bug**\
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**To Reproduce**\
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Execute command '....'
+3. Open '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior**\
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Logs**\
+If applicable, add error logs.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Variants:**
+ - Way of installation: [e.g. Homebrew, Make, SPM]
+ - Version [e.g. 1.1.13]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Your machine:**
+ - OS: [e.g. MacOS, Windows]
+ - Chip [e.g. Intel, Apple Silicon]
+ - Version [e.g. 1.1.13]
 
-**Additional context**
+**Project's platform:**
+ - Platform: [e.g. iOS, Android]
+
+**Additional context**\
 Add any other context about the problem here.
