@@ -2,15 +2,15 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: 'triage'
+labels: 'triage, bug'
 assignees: ''
 
 ---
 
-**Describe the bug**\
+**Describe the bug**<br/>
 A clear and concise description of what the bug is.
 
-**To Reproduce**\
+**To Reproduce**<br/>
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Execute command '....'
