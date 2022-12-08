@@ -2,25 +2,26 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: 'triage, bug'
+placeholder: 'Provide title'
+labels: 'bug'
 assignees: ''
 
 ---
 
-**Describe the bug**<br/>
-A clear and concise description of what the bug is.
+**Describe the bug**
+ A clear and concise description of what the bug is.
 
-**To Reproduce**<br/>
+**To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Execute command '....'
 3. Open '....'
 4. See error
 
-**Expected behavior**\
+**Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Logs**\
+**Logs**
 If applicable, add error logs.
 
 **Variants:**
@@ -35,5 +36,5 @@ If applicable, add error logs.
 **Project's platform:**
  - Platform: [e.g. iOS, Android]
 
-**Additional context**\
+**Additional context**
 Add any other context about the problem here.
